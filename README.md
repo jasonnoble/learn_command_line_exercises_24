@@ -1,2 +1,5 @@
-# learn_command_line_exercises_24
-Homework from Learn the Command Line
+As part of the Build the Toolbelt course,
+my instructor wants me to read through 
+Learn the Command line.
+
+This repo is my homework for this book.
